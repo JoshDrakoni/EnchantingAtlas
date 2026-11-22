@@ -1,0 +1,10 @@
+## Interface: 11509
+## Title: Enchanting Atlas
+## Notes: WoW Forever enchanting recipe and acquisition compendium.
+## Author: ChatGPT
+## Version: 0.2.2
+## SavedVariables: EnchantingAtlasDB
+## DefaultState: Enabled
+
+Data.lua
+Core.lua
